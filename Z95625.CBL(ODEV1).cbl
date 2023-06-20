@@ -95,8 +95,7 @@
            MOVE FIRST-NAME   TO  FIRST-NAME-O.
            MOVE COMMENTS     TO  COMMENTS-O.
            WRITE PRINT-REC.
-      
-       *READ-RECORD.: Bu bölüm, bir kaydı okumak için ACCT-REC dosyasını okur.
+      *READ-RECORD.: Bu bölüm, bir kaydı okumak için ACCT-REC dosyasını okur.
       *READ ACCT-REC: ACCT-REC dosyasından bir kaydı okur.
       *AT END: Dosyanın sonuna gelindiğinde gerçekleşecek olan bir kontrol noktasını belirtir.
       *MOVE 'Y' TO LASTREC: Dosyanın sonuna gelindiğinde, LASTREC değişkenine 'Y' atanır. 
