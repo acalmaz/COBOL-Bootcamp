@@ -1,2 +1,2 @@
-# COBOL-Bootcamp ODEV1,
-Bu ödevin amacı CBL0001.CBL dosyasını okuyup bu okunan verileri farklı bir dosyaya aktarmaktır. Bu işlem yalnızca .jcl dosyasında yapılan değişiklik ile gerçekleşir.Nasıl yaptığımızı ve hangi kodun ne işe yaradığı kodlara eklenen yorum satırları ile detaylandırılmıştır.
+# COBOL-Bootcamp ODEVLER,
+COBOL BOOTCAMP sürecinde verilen ödevler için açılmıştır. Her ödev klasörünün içerisinde readme.md dosyası ile özet açıklamalar yapılmıştır. Ayrıntılar .cbl uzantılı dosya içerisinde yorum satırı olarak yazılmıştır.
